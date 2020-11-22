@@ -10,6 +10,7 @@ import Project from './Components/Project.js';
 
 
 function App() {
+
   return (
     <div className="App">
       <Banner />
@@ -17,7 +18,6 @@ function App() {
       <About />
       <Project />
       Home page
-
       <Footer />
     </div>
   );

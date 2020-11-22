@@ -1,8 +1,10 @@
 import React from 'react';
+import './Project.css';
+
 
 function Projects() {
     return (
-      <div>
+      <div className="ProjectDiv">
         <h1>Project</h1>
       </div>
     );
