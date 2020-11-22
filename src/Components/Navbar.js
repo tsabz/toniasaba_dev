@@ -5,7 +5,10 @@ import './Navbar.css';
 function Navbar() {
     return (
       <div className="NavbarDiv">
-        <h1>Navbar</h1>
+          <div className="Navfontdiv">
+            <a href="/">About</a> <br/>
+            <a href="/">ToniaSaba.com</a>
+        </div>
       </div>
     );
   }
