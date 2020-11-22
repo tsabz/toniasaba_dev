@@ -7,7 +7,7 @@ function Navbar() {
       <div className="NavbarDiv">
           <div className="Navfontdiv">
             <a href="/">About</a> <br/>
-            <a href="/">ToniaSaba.com</a>
+            <a href="https://toniasaba.com/">ToniaSaba.com</a>
         </div>
       </div>
     );
